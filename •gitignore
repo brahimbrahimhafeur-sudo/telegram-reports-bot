@@ -1,0 +1,8 @@
+• env
+• env. local
+-_pycache__
+*. py[cod]
+users_data. json
+• DS_Store
+• vscode/
+• idea/
